@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: '/workout_page', // Change to `/running_page` when running on github pages
+  pathPrefix: '/workouts_page', // Change to `/running_page` when running on github pages
   siteMetadata: {
     siteTitle: 'Running Page of Yang',
     siteUrl: 'https://VicYang.run',
