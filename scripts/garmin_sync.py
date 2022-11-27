@@ -52,7 +52,7 @@ GARMIN_CN_URL_DICT = {
 
 
 class Garmin:
-    def __init__(self, email, password, auth_domain, is_only_running=True):
+    def __init__(self, email, password, auth_domain, is_only_running=False):
         """
         Init module
         """
